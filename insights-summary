@@ -1,0 +1,57 @@
+# Sales Data Analysis — Insights Summary
+
+**Project:** Sales Data Analysis
+**Internship:** Data Analyst Internship — Cognetix Global Technology
+**Tools Used:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+
+## 1. Introduction
+
+The objective of this project is to analyze sales data to understand sales performance, identify top-performing products and regions, and observe monthly sales trends. Python libraries were used to process the dataset, perform calculations, and create visualizations.
+
+## 2. Key Findings
+
+### Monthly Sales Trend
+
+The monthly sales trend shows considerable fluctuations throughout the observed period. Based on the generated chart, November 2004 recorded the highest monthly sales, at approximately 91,000 in the dataset's sales units. Some months show zero sales, which should be checked to determine whether they represent months without recorded orders or missing data.
+
+### Product Category Performance
+
+Sales were grouped by product line to compare the performance of different product categories. The category with the highest total sales can be identified from the category-wise sales chart.
+
+**Finding:** [Classic cars had the highest sales]
+
+### Territory-wise Sales
+
+Sales were compared across territories to understand differences in regional performance.
+
+**Finding:** [The territory with the highest total sales - APAC]
+
+### Top 10 Products
+
+The top 10 products were identified by aggregating sales by product code. This comparison helps highlight products that contribute significantly to total revenue.
+
+**Finding:** [The top-performing product code- 10407,10322,10424,10412,10403,10405,10312,10333,10127 and 10150]
+
+### Deal Size Distribution
+
+Sales were grouped by deal size to compare the contribution of different deal categories.
+
+**Finding:** [The deal size with the largest sales contribution- 8.6%]
+
+### Country-wise Sales
+
+The top 10 countries were compared based on their total sales. This analysis helps identify important markets.
+
+**Finding:** [The country with the highest total sales - Australia]
+
+## 3. Business Recommendations
+
+* Monitor monthly sales fluctuations to identify periods of strong and weak performance.
+* Investigate months with zero recorded sales before drawing conclusions.
+* Focus on high-performing product categories and products while reviewing opportunities to improve weaker performers.
+* Compare territory-wise performance to identify markets that may benefit from additional sales efforts.
+* Use country-wise sales patterns to support market planning and business decisions.
+
+## 4. Conclusion
+
+This project demonstrates how Python can be used to analyze sales data and communicate findings through visualizations. The analysis provides a foundation for understanding product performance, territory-wise sales, country-wise contributions, and monthly trends. The findings can support more informed, data-driven business decisions.
